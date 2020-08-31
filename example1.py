@@ -80,4 +80,4 @@ class Soldier:
 AK=Gun("AK47")
 xyh=Soldier("许三多")
 xyh.gun=AK     # important-------------一个类的对象可以是另一个类的属性
-xyh.fire()
+xyh.fire() 
