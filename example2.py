@@ -91,3 +91,4 @@ class Dog(object):
 
 Dog.run()     # 调用方法时：   类名.静态方法
 
+ 
